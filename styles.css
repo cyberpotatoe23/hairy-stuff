@@ -1,0 +1,23 @@
+body {
+  background-color:#11181C;
+  color:ivory;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 60px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.me{
+    height: 120px;
+    border: ivory 2px dashed;
+
+}
+
+.donation{
+    border: ivory 2px dashed;
+    padding: 20px;
+ 
+}
+
+a{
+    color: darkolivegreen;
